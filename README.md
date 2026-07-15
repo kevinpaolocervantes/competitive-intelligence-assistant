@@ -1,4 +1,4 @@
-# Competitive Intelligence Assistant
+# Competitive Intelligence Assistant for PMMs
 
 > **AI-powered competitive intelligence that monitors competitor websites and generates actionable PMM insights.**
 
