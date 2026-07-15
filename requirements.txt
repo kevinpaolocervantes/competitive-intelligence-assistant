@@ -1,0 +1,4 @@
+streamlit>=1.36
+beautifulsoup4>=4.12
+requests>=2.32
+pytest>=8.2
